@@ -3,7 +3,7 @@
 
 -*clone the desired repo*
 
-`<command>`#git clone repo_url
+`<#git clone repo_url>`
 
 -*Get into newly created directory*
 
@@ -11,7 +11,7 @@
 
 **Before any change, create a new branch**
 
-`<command>`#git checkout -b branch_name
+`<#git checkout -b branch_name>`
 
 **do a change**
 
@@ -19,15 +19,15 @@
 
 **Add that change**
 
-`<command>`#git add new_added_file
+`<#git add new_added_file>`
 
 **Commit the change**
 
-`<command>`#git commit -m "The purpose of the change"
+`<#git commit -m "The purpose of the change">`
 
 **Push the change to the newly created branch**
 
-`<command>`#git push origin newly_created_branch
+`<#git push origin newly_created_branch>`
 
 **The next stpe is to go to the github and if it is safety to pull the changes to the master branch **
 
