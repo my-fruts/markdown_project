@@ -1,4 +1,4 @@
-**do a change on a github project**
+**How to do a change on a github repo project**
 
 -*clone the desired repo*
 
