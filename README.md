@@ -1,31 +1,33 @@
 **How to do a change on a github repo project**
 
+
 -*clone the desired repo*
 
-#git clone repo_url
+`<command>`#git clone repo_url
 
 -*Get into newly created directory*
 
 -*Once the repo is cloned, get into it*
 
-**before any change, create a new branch**
+**Before any change, create a new branch**
 
-#git checkout -b branch_name
+`<command>`#git checkout -b branch_name
 
 **do a change**
+
 *Create or edit a file*
 
 **Add that change**
 
-#git add new_added_file
+`<command>`#git add new_added_file
 
 **Commit the change**
 
-#git commit -m "The purpose of the change"
+`<command>`#git commit -m "The purpose of the change"
 
 **Push the change to the newly created branch**
 
-#git push origin newly_created_branch
+`<command>`#git push origin newly_created_branch
 
 **The next stpe is to go to the github and if it is safety to pull the changes to the master branch **
 
